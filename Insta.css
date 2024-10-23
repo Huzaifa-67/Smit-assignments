@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin: 8vh 115vh;
+    padding: 40px 20px;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    border: solid gray;
+    border-width: 1px;
+    background-color: #FFFFFF;
+
+}
+
+input {
+
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    width: 90%;
+    padding: 15px 0px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #1877F2;
+    padding: 13px 160px;
+    color:white;
+    border: transparent;
+    cursor: pointer;
+}
