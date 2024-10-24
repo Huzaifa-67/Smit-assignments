@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+#flexing{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    
+} */
+ #flex{
+    height: 500px;
+    width: 500px;
+    background-color:darkgreen;
+    display: flex;
+    align-items: center;
+ }
+
+ #flex2{
+    height: 500px;
+    width: 500px;
+    background-color:yellow;
+    display: flex;
+    align-items: center;
+ }
+ #main{
+    display: flex;
+    gap: 20px;
+ }
